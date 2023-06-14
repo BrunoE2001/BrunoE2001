@@ -4,7 +4,7 @@
 </div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwjAelmfIb8ke7MGvJeF3qw?style=social)](https://youtube.com/@capitannemo537)
-[![Twitter Status](https://img.shields.io/twitter/url/https/twitter.com/BrunoBr19944022/status/?style=social)](https://twitter.com/BrunoBr19944022)
+[![Twitter Status](https://img.shields.io/twitter/url/https/twitter.com/BrunoBr19944022?style=social)](https://twitter.com/BrunoBr19944022)
 [![GitHub followers](https://img.shields.io/github/followers/BrunoE2001?style=social)](https://github.com/BrunoE2001)
 
 ## Sobre mi
