@@ -13,13 +13,31 @@
 - 📲👨‍💻📱  Desarrollador Movil
 - 💻🌐🖥️ Desarrollor Web
 - 🤖🧠⚙️ Desarrollor de Sistemas Automatizados con inteligencia artificial
+
+
+## Habilidades Técnicas
+
+- Programacion en Python enfocado a Machine Learning, Vision e Inteligencia Artificial
+- Lenguajes de programación: Python, Java, Kotlin, JavaScript
+- Desarrollo web: HTML, CSS, Node.js
+- Bases de datos: SQL, MongoDB
+- Sistemas operativos: Windows, Linux
+- Redes y seguridad: TCP/IP, Firewalls, VPNs
+
+## Habilidades no Técnicas
+
+- Resolución de problemas
+- Trabajo en equipo y colaboración
+- Comunicación efectiva
+- Pensamiento analítico y lógico
+- Aprendizaje continuo y adaptabilidad
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/BrunoE2001">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrunoE2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrunoE2001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
