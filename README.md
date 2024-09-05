@@ -10,7 +10,7 @@
 
 - Ingeniero en Sistemas Computacionales
 - 📲👨‍💻📱  Desarrollador Movil
-- 💻🌐🖥️ Desarrollor Web
+- 💻🌐🖥️ Desarrollor Backend
 - 🤖🧠⚙️ Desarrollor de Sistemas Automatizados con inteligencia artificial
 
 
