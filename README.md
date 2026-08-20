@@ -3,7 +3,6 @@
   <img src="https://i.imgur.com/Ngkw5dP.jpg" width="960" height="350">
 </div>
 
-[![Twitter Status](https://img.shields.io/twitter/url/https/twitter.com/BrunoBr19944022?style=social)](https://twitter.com/BrunoBr19944022)
 [![GitHub followers](https://img.shields.io/github/followers/BrunoE2001?style=social)](https://github.com/BrunoE2001)
 
 ## Sobre mi
